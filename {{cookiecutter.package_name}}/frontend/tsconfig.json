@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "../backend/{{cookiecutter.package_name}}/static/js",
+        "sourceMap": true,
+        "noImplicitAny": true,
+        "module": "commonjs",
+        "target": "es6",
+        "jsx": "react"
+    }
+}

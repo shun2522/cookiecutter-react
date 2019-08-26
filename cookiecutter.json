@@ -1,0 +1,4 @@
+{
+  "package_name": "Hello",
+  "_copy_without_render": ["*.html"]
+}
